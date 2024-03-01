@@ -18,9 +18,9 @@ Ethnicity - One of six mutually exclusive ethnic groups
 
 Age Group - Five-year age groups e.g. 0-4, 5-9, 10-14, etc. 85+ is the oldest category.
 
-Female - Total of female population
+Female - Total population (Female)
 
-Male - Total of male population
+Male - Total population (Male)
 
 ### Steps followed 
 
