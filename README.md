@@ -2,14 +2,25 @@
 
 ### Dashboard Link :https://app.powerbi.com/reportEmbed?reportId=82ed6b56-004d-4bbc-b97d-3857322b01ac&autoAuth=true&ctid=6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
 
-## Problem Statement
+## Dataset Link
+https://data.gov.my/data-catalogue/population_state
 
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+## Dataset description
+This dataset tabulates the population of Malaysia at state level, by sex, ethnicity, and 5-year age group, from 2020 to 2023.
 
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
+## Variable definitions
 
-Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
+Date - The date in YYYY format
 
+State - One of 16 states
+
+Ethnicity - One of six mutually exclusive ethnic groups
+
+Age Group - Five-year age groups e.g. 0-4, 5-9, 10-14, etc. 85+ is the oldest category.
+
+Female - Total of female population
+
+Male - Total of male population
 
 ### Steps followed 
 
