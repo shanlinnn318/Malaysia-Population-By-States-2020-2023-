@@ -23,16 +23,21 @@ Female - Total population (Female)
 Male - Total population (Male)
 
 ### Steps followed 
-- Step 1 : Before loading data into Power BI, data cleaning and data transformation process have been executed. The purpose is to get rid of the unwanted observations in the dataset and also convert data into a proper and suitable format. The details of these processes are shown as below:
-  1.Extract the year data from the date data by using TEXT function
+- Step 1 : Before loading data into Power BI, data cleaning and data transformation process have been executed. The purpose is to get rid of the unwanted observations in the dataset and also convert data into a proper and suitable format. The details of these processes are shown as below: - 
+
+  1. Extract the year data from the date data by using TEXT function
     * Another option: using custom date format, YYYY
+  
   2. Population data
     * Extract population data from ('000) format to exact total number of population data
+      
   3. Sex data
     * Clear overall_sex data (total number of population by sex)
-  4.  Ethnicity data
+      
+  4. Ethnicity data
     * Clear overall_ethnicity data (total number of population by ethnicity)
- 5. Age data
+
+  5. Age data
     * Clear overall_age data (total number of population by age)
 
  Summary: After data cleaning process, number of data has decreased from 25537 to 13825. 
